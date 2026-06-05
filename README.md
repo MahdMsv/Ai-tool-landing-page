@@ -41,16 +41,6 @@ Run Locally
 bash# Clone the repository
 git clone https://github.com/MahdMsv/Ai-tool-landing-page.git
 
-# Navigate into the directory
-cd speakflow-ai
-
-# Open in your browser
-open speakflow-landing.html
-# or on Windows:
-start speakflow-landing.html
-# or on Linux:
-xdg-open speakflow-landing.html
-
 🧩 Tech Stack
 
 HTML5 — Semantic structure
@@ -110,7 +100,7 @@ css:root {
 To change the brand color, update --accent and --teal — everything adapts automatically.
 
 📄 License
-This project is open source and available under the MIT License.
+All Rights Reserved
 
 👤 Author
 Mahdi Mousavi
