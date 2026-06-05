@@ -39,7 +39,7 @@ Prerequisites
 No installation needed. Just a modern web browser.
 Run Locally
 bash# Clone the repository
-git clone https://github.com/MahdMsv/speakflow-ai.git
+git clone https://github.com/MahdMsv/Ai-tool-landing-page.git
 
 # Navigate into the directory
 cd speakflow-ai
